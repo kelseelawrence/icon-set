@@ -1,11 +1,11 @@
 // ✅ gsap loaded? 
 console.log( gsap );
 
-gsap.to(".pointer", {
+gsap.to("#pointer", {
     fill: "pink";
 })
 
-gsap.from('.cloud', {
+gsap.from('#cloud', {
     y: -61,
     opacity: 0,
     delay: 1,
