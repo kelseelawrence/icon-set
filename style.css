@@ -5,31 +5,31 @@
 
 /* temp background color */
 body {
-    background: lightgray;
+  background: #f4ebd0;
 }
-  
+
 /* vertical and horizontal centering */
 body {
-  display: grid;
-  place-content: center;
-  height: 100vh;
+display: grid;
+place-content: center;
+height: 100vh;
 }
 
 /* containers */
 main {
-  display: flex;
+display: flex;
 }
 
 /* cptionally changef */
 main section {
-  height: 100px;
-  width: 100px;
+height: 150px;
+width: 150px;
 }
 
 /* scale SVG to fit container */
 svg {
-  width: 100%; /* or any specific size */
-  height: auto;
-  /* Center and fit */
-  preserveAspectRatio: xMidYMid meet;
+width: 100%; /* or any specific size */
+height: auto;
+/* Center and fit */
+preserveAspectRatio: xMidYMid meet;
 }
