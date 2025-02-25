@@ -8,13 +8,13 @@
 * Use SVG icons in your future projects
 
 ## How?
-* Use GSAP aka GreenSock Animation library to apply CSS animations
+* I Used GSAP aka GreenSock Animation library to apply CSS animations
 * Use JavaScript to reduce quirks of CSS animations
 * Use GSAP dev tools
 
 ## Citations
 * Icons from [Lucide](https://lucide.dev/)
-* Use [GreenSock](https://greensock.com/) animation library
+* Used [GreenSock](https://greensock.com/) animation library
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
 
 
